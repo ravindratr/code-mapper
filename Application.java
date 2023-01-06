@@ -8,6 +8,8 @@ public class Application {
 
 /**
 git status
+
+
 git add
 git commmit
 git log
