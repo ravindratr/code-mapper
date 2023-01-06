@@ -5,3 +5,13 @@ public class Application {
             System.out.println("Hello World");
     }
 }
+
+/**
+git status
+git add
+git commmit
+git log
+git push
+git fetch
+git pull
+ */
